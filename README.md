@@ -1,6 +1,7 @@
 # Example Processor
 Simple processor that reads LCIO files with SimCalorimeterHit and writes in screen the energy deposition and coordinates of each hit
 
+Tests
 # Compile:
 
 > cd XXXXX/ExampleProcessor
